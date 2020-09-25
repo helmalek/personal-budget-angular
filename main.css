@@ -96,3 +96,8 @@ div.hero h2 {
         margin: 10px;
     }
 }
+.top-link{
+    left: 50%;
+    position: absolute;
+    transform: translateY(-100%);
+}
